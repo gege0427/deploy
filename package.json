@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/gege0427/deploy/issues"
   },
-  "homepage": "https://github.com/gege0427/deploy#readme"
+  "homepage": "https://github.com/gege0427/deploy#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
 }
